@@ -1,2 +1,2 @@
 #DatDok
-* A website for dogs where you can found dogs for your dog.
+* A website for dogs where your dog can date another dog of your prefrence.
